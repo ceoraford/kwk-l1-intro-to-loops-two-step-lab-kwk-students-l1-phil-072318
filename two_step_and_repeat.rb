@@ -10,7 +10,7 @@ def first_steps
   sleep(1)
   end 
 end
-
+first_steps
 def a_few_more_steps
   first_steps
   puts 
